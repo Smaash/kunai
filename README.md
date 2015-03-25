@@ -7,7 +7,7 @@ In order to grab as many informations as possible, script detects whenever javas
 
 #Examples
 - Fake website (more stable & better for autopwn & beef):
- ```
+```
 <iframe src="https://www.coloradopotguide.com/" style="border: 0; width: 100%; height: 100%"></iframe>
 <iframe src="log.php" width="1" height="1" frameborder="0" ></iframe>
 ```
