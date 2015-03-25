@@ -3,7 +3,7 @@ Sometimes there is a need to obtain ip address of specific person. This is what 
 
 Kunai is a simple script which collects many informations about a visitor and save output to file; furthermore, you may try to perform attacks on user browser, using beef or metasploit. 
 
-In order to grab as many informations as possible, script detects whenever javascript is enabled to obtain more details about a visitor. For example, you can include this script in iframe, or perform redirects, to avoid detection of suspicious activities. 
+In order to grab as many informations as possible, script detects whenever javascript is enabled to obtain more details about a visitor. For example, you can include this script in iframe, or perform redirects, to avoid detection of suspicious activities. Script can notify you via email about new log.
 
 #Examples
 - Fake website (more stable & better for autopwn & beef):
