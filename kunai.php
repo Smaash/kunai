@@ -22,7 +22,7 @@
 
   // Email notification
   define('email_notify', 0);
-  define('notify_address', 'g1x476461@mailinator.com');
+  define('notify_address', 'user@email.com');
 
   // Beef js hook (or custom js)
   define('use_beef', 0);
