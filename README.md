@@ -15,7 +15,7 @@ In order to grab as many informations as possible, script detects whenever javas
 - One file composition
 
 #Example configs
-- Fake website (more stable & better for autopwn & beef):
+- Website spoofing (more stable & better for autopwn & beef):
 - Redirect (better for quick ip catching):
 ```
 goo.gl/urlink -> evilhost/x.php -> site.com/kitty.png
